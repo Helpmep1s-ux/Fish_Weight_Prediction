@@ -4,7 +4,7 @@ In this repository, **Linear Regression** is used to predict the weight of fish 
 
 ## Dataset Overview
 
-The dataset comprises 159 rows and 7 columns:
+The dataset has 159 rows and 7 columns:
 
 - **Species**: Type of fish (e.g., Bream, Perch)
 - **Weight**: Weight of the fish in grams (target variable)
