@@ -141,9 +141,9 @@ Weight,Length1,Height,Width,Species_Parkki,Species_Perch,Species_Pike,Species_Ro
 770.0,44.8,7.68,5.376,False,False,True,False,False,False
 950.0,48.3,8.9262,6.1712,False,False,True,False,False,False
 1250.0,52.0,10.6863,6.9849,False,False,True,False,False,False
-1600.0,53.175000000000004,9.6,6.144,False,False,True,False,False,False
-1550.0,53.175000000000004,9.6,6.144,False,False,True,False,False,False
-1650.0,53.175000000000004,10.812,7.48,False,False,True,False,False,False
+1445.0,53.175000000000004,9.6,6.144,False,False,True,False,False,False
+1445.0,53.175000000000004,9.6,6.144,False,False,True,False,False,False
+1445.0,53.175000000000004,10.812,7.48,False,False,True,False,False,False
 6.7,9.3,1.7388,1.0476,False,False,False,False,True,False
 7.5,10.0,1.972,1.16,False,False,False,False,True,False
 7.0,10.1,1.7284,1.1484,False,False,False,False,True,False
